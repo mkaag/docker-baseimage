@@ -21,7 +21,7 @@ docker build -t mkaag/baseimage github.com/mkaag/docker-baseimage
 #### Basic usage
 
 ```bash
-docker run -d mkaag/baseimage /sbin/my_init -- bash -l
+docker run -ti --rm mkaag/baseimage /sbin/my_init -- bash -l
 ```
 
 ### Using as base image
