@@ -2,6 +2,7 @@ docker-base-image
 =================
 
 [![Docker Hub](https://img.shields.io/badge/docker-mkaag%2Fbaseimage-008bb8.svg)](https://registry.hub.docker.com/u/mkaag/baseimage/)
+[![](https://badge.imagelayers.io/mkaag/baseimage:latest.svg)](https://imagelayers.io/?images=mkaag/baseimage:latest 'Get your own badge on imagelayers.io')
 
 This repository contains the **Dockerfile** and the configuration files to build a base image for [Docker](https://www.docker.com/).
 
